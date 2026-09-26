@@ -1,0 +1,6 @@
+{
+  "name": "ArXivArchitect - CS Research & System Architecture Agent",
+  "description": "Advanced Computer Science Research Agent for parsing academic papers, synthesizing core methodology, generating interactive Mermaid.js system architectures, and blueprinting student internship projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
